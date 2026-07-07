@@ -28,9 +28,9 @@ DATA_RANGE_FILE = "datarange.json"
 CUSTOM_SERVICES_FILE = "custom_services.json"
 
 # ==================== MULTIPLE ADMINS CONFIGURATION ====================
-ADMINS = [8273597769]
+ADMINS_ID = [8273597769]
 
-OTP_GROUP_ID = --1003928674058
+OTP_GROUP_ID = -1003928674058
 
 # ==================== WELCOME MESSAGE CONFIGURATION ====================
 WELCOME_MESSAGE = """⚡ 𝗠𝗜𝗡𝗢 𝗦𝗠𝗦 𝗣𝗔𝗡𝗘𝗟 𝗕𝗢𝗧 ⚡ 
