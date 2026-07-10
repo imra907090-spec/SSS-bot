@@ -14,7 +14,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 
 # ==================== CONFIG SECTION ====================
 
-BOT_TOKEN = "8312212025:AAGQVy_EzFkFqlcqsSsi8r4yPDAQw_01dFw"
+BOT_TOKEN = "8931384031:AAElSwSOL_CQdShaUgvwEBenkdmJPkiXZUc"
 API_KEY = "api_key_by_mino"
 BASE_URL = "https://mino-sms-panel.xyz"
 USER_DATA_FILE = "users.json"
@@ -28,9 +28,9 @@ DATA_RANGE_FILE = "datarange.json"
 CUSTOM_SERVICES_FILE = "custom_services.json"
 
 # ==================== MULTIPLE ADMINS CONFIGURATION ====================
-ADMINS = [7940416120]
+ADMINS = [8273597769]
 
-OTP_GROUP_ID = -1003768160049
+OTP_GROUP_ID =-1003698770950
 
 # ==================== WELCOME MESSAGE CONFIGURATION ====================
 WELCOME_MESSAGE = """⚡ 𝗠𝗜𝗡𝗢 𝗦𝗠𝗦 𝗣𝗔𝗡𝗘𝗟 𝗕𝗢𝗧 ⚡ 
